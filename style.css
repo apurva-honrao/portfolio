@@ -299,7 +299,8 @@ a img.aligncenter {
     HEADER
 -------------------------------------------------------------------*/
 
-.navbar-dark{
+
+/* .navbar-dark{
 	
 }
 
@@ -333,7 +334,7 @@ a img.aligncenter {
 }
 .navbar-dark .navbar-nav .nav-link.active::after {
 	width: 50%;
-}
+} */
 
 /*------------------------------------------------------------------
     SECTIONS
